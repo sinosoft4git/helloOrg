@@ -1,4 +1,8 @@
 团队合作 git kyy 911
 greyfur 到此一游。。。。。。。
 
+<<<<<<< HEAD
+改变冲突
+=======
 测试冲突pull request
+>>>>>>> upstream/master
